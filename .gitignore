@@ -1,0 +1,15 @@
+# ignore object files
+*.o
+*.ghc
+
+# ignore executable
+*.out
+push_swap
+push_swap_bonus
+
+# ignore vscode settings
+.vscode
+.DS_Store
+
+# ignore valgrind files
+*.dSYM/*
